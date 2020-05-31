@@ -1,5 +1,12 @@
 # Pedestrian Phone Usage detection and tracking using AlphaPose estimation and pose tracking model 
 
+### Authors: 
+####		Sudalaiandi Raja Sudalaimuthu
+####		Jayaraman Revathi
+
+# Objective 
+
+#### To develop a vision based system to detect mobile phone usage by pedestrians. By doing so, the project aims to identify appropriate measures to ensure the safety of all road users following the Highway code of Conduct.
 
 ## Installation
 ##### 1. Create a conda virtual environment.
@@ -47,6 +54,8 @@ cd Track_Phone_Usage
     <img src="demo/track_phone_usage_demo.gif", width="800">
 </div>
 
+***
+--- 
 
 ## Citation
 Please cite these papers in your publications if it helps your research:
@@ -71,7 +80,3 @@ Please cite these papers in your publications if it helps your research:
       booktitle={BMVC},
       year = {2018}
     }
-
-
-## License
-AlphaPose is freely available for free non-commercial use, and may be redistributed under these conditions. For commercial queries, please drop an e-mail at mvig.alphapose[at]gmail[dot]com and cc lucewu[[at]sjtu[dot]edu[dot]cn. We will send the detail agreement to you.
